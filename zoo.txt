@@ -1,0 +1,15 @@
+Protovis 
+Index Charts
+Stacked Graphs
+Choropleth Maps
+Graduated Symbol Maps
+Cartograms
+sunburst layout
+enclosure diagram
+Parallel Coordinates
+Hierarchies
+Adjacency Diagrams
+Node-link Diagrams
+Force-directed Layouts
+Arc Diagrams
+Matrix Views
